@@ -1,0 +1,31 @@
+body {
+  font-size: 20px;
+}
+
+h3 {
+  text-align: center;
+}
+
+.timeCount {
+  font-size: 30px;
+  margin:20px;
+  text-align: center;
+}
+
+.buttons {
+  text-align: center;
+}
+
+button {
+  background-color: #DDD;
+  border-radius: 5px;
+  color:#000;
+}
+
+button:hover {
+  background-color: #CCC;
+}
+
+button:disabled {
+  background-color: #DDD;
+}
